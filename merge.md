@@ -1,2 +1,4 @@
-# IBM Data Visualization Specialization course: Data Science Capstone.
+# IBM Data Visualization Specialization course- DataScienceCapstone.
+
+I am Pratiksha Lokhande
 
