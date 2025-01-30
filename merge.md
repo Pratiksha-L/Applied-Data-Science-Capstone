@@ -2,5 +2,5 @@
 
 I am Miss Pratiksha 
 
-I stay in Bangalore, Karnataka, India. 
+I stay in Bangalore City, Karnataka, India. 
 
