@@ -1,6 +1,6 @@
-# IBM Data Visualization Specialization course- DataScienceCapstone.
+# Demo Normal Merge.
 
-I am Pratiksha Lokhande
+I am Miss Pratiksha 
 
-I stay in Bangalore, Karnataka, India. 
+I stay in Bangalore City, Karnataka, India. 
 
