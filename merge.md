@@ -1,6 +1,6 @@
 # Demo Normal Merge.
 
-I am Pratiksha Lokhande
+I am Miss Pratiksha 
 
 I stay in Bangalore, Karnataka, India. 
 
